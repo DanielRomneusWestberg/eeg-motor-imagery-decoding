@@ -1,0 +1,15 @@
+# venv
+.venv/
+
+# Cached python files through imports
+__pycache__/
+*.pyc
+
+# Local data model files
+*.fif
+*.npy
+*.edf
+
+# Local AI
+CLAUDE.md
+
