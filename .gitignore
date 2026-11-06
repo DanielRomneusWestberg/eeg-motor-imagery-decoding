@@ -10,6 +10,9 @@ __pycache__/
 *.npy
 *.edf
 
+# Testing code
+scratch.py
+
 # Local AI
 CLAUDE.md
 
